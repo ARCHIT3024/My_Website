@@ -1,0 +1,115 @@
+h1{
+    font-family: "Akaya Kanadaka";
+    font-weight: bolder;
+    font-size: 100px;
+    color: #B9B4C7;
+    display: flex;
+    height: 400px;
+    width: 100%;
+    justify-content: center;
+    align-items: end;
+    padding: 0;
+    margin: 0;
+    background-color: #5C5470;
+}
+.programmer{
+    color: #B9B4C7;
+    text-align: center;
+    padding-bottom: 350px;
+    padding-top: 10px;
+    margin: 0;
+    font-size:x-large;
+    font-family: "Borel";
+    background-color: #5C5470;
+}
+.pp{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    border: solid 5px black;
+}
+.second{
+    display:flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.intro{
+    height: auto;
+    width: 900px;
+    text-align: left;
+    font-size: larger;
+    font-family: "Spectral"
+}
+.skill-list,.hobbies-list{
+    list-style:none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+h2{
+    font-family: "Akaya Kanadaka";
+    font-size: xxx-large;
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+}
+.third,.fourth{
+    display:flex;
+    flex-direction: column;
+    background-color: #A5C9CA;
+    margin: 0;
+    padding: 0;
+    padding-right: 10%;
+}
+.top{
+    display: flex;
+}
+.skill-list > li{
+    font-size: 25px;
+    font-family: "DynaPuff";
+}
+.skill{
+    padding: 10px;
+    padding-right: 0;
+    font-size: 70px;
+}
+.middle{
+    display: flex;
+}
+.hobbies{
+    padding: 0;
+    font-size: 50px;
+}
+.hobbies-list > li{
+    font-family: "DynaPuff";
+    font-size: 22.5px;
+}
+.education-list{
+    list-style: upper-roman;
+}
+.education-list > li{
+    font-size: xx-large;
+    font-family: "Alegreya SC";
+    margin: 22px;
+}
+.contact{
+    text-align: center;
+    margin: 35px;
+    margin-top: 0;
+    padding:5px ;    
+}
+.bottom{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 0;
+}
+.below{
+    background-color: #CBE4DE;
+}
+.below > p{
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
